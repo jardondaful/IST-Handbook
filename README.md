@@ -1,4 +1,4 @@
-Certainly! Here's an example of a README.md file that explains how to run a cloned React app:
+
 
 ```
 # React App
