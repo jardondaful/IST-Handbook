@@ -15,7 +15,7 @@ To use this React blank app, you need to have Node.js and npm (Node Package Mana
 
 3. Run the following command to create a new React app using Create React App:
 
-   ```shell
+```shell
    npx create-react-app my-app
 ````
 
