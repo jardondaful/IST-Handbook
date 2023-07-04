@@ -1,6 +1,6 @@
 
 
-```
+
 # React App
 
 This is a React app that you have cloned from a repository. It provides a starting point for your React projects.
