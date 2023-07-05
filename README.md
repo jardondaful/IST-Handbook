@@ -1,6 +1,6 @@
 ## Installation
 
-To use this React app, you need to have Node.js and npm (Node Package Manager) installed on your machine. You can download and install them from the official Node.js website: https://nodejs.org
+To use this website, you need to have Node.js and npm (Node Package Manager) installed on your machine. You can download and install them from the official Node.js website: https://nodejs.org
 
 ## Setup
 
