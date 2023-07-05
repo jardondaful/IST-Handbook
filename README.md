@@ -1,3 +1,5 @@
+![image](https://github.com/jardondaful/IST-Handbook/assets/68207907/64b1bc72-5a10-4c78-a4e7-934cfd5d834f)
+
 ## Installation
 
 To use this website, you need to have Node.js and npm (Node Package Manager) installed on your machine. You can download and install them from the official Node.js website: https://nodejs.org
