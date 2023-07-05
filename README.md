@@ -31,4 +31,7 @@ To use this website, you need to have Node.js and npm (Node Package Manager) ins
    If the app doesn't open automatically, you can manually visit `http://localhost:3000` in your web browser.
 
    If you make changes to the code in the application and save them, they will automatically be updated on your localhost (given that they successfully compile)
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
