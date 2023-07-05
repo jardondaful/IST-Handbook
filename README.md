@@ -1,10 +1,3 @@
-
-
-
-# React App
-
-This is a React app that you have cloned from a repository. It provides a starting point for your React projects.
-
 ## Installation
 
 To use this React app, you need to have Node.js and npm (Node Package Manager) installed on your machine. You can download and install them from the official Node.js website: https://nodejs.org
