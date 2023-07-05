@@ -30,5 +30,5 @@ To use this website, you need to have Node.js and npm (Node Package Manager) ins
 
    If the app doesn't open automatically, you can manually visit `http://localhost:3000` in your web browser.
 
-   Any changes you make to the source code will automatically trigger a hot reload, allowing you to see the changes instantly in the browser.
+   If you make changes to the code in the application and save them, they will automatically be updated on your localhost (given that they successfully compile)
 
